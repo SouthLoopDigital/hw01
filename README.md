@@ -5,7 +5,7 @@ BIO: A Linux systems admin, writer, consultant and sometime script-writing gener
 
 # How Rob updated this README.md
 
-RStudio, integrated with Git
+RStudio, integrated with Git.  I have noticed that RStudio's MD "Preview" renderer does not accurately indent ordered lists but that indentations survive as intended when displayed upon Github.
 
 # List: Three major reasons Rob Warmowski is not an enrolled student
 
